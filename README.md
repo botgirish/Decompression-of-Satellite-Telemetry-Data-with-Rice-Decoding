@@ -1,0 +1,1 @@
+# Decompression-of-Satellite-Telemetry-Data-with-Rice-Decoding
